@@ -1,0 +1,58 @@
+.caja{
+	background: green;
+    height: 500px;
+    width: 800px;
+    
+
+}
+.linea{
+	border: 1px solid white;
+	height: 450px;
+	width: 750px;
+    top: 25px;
+    left: 25px;
+    position: relative;
+}
+.arco{
+	height: 200px;
+	width: 100px;
+	border: 1px solid white;
+	position: relative;
+	
+}
+.left{
+	float: left;
+	top: 124px;
+	left: -1px;
+}
+.right{
+	float: right;
+	top: 124px;
+	right: -1px;
+}
+.centro{
+    height: 200px;
+	width: 200px;
+	border: 1px solid white;
+	position: relative;
+	border-radius: 100%;
+	margin:auto;
+	top:124px;
+}
+.izquierda {
+	position: relative;
+	left: 90px;
+	top: -70px;
+}
+.alcentro{
+	position: relative;
+	left: 400px;
+	top: -180px;
+}
+.derecha{
+	position: relative;
+	float: right;
+	right: 105px;
+	bottom: -36px;
+
+}
